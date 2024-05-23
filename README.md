@@ -1,1 +1,1 @@
-# site-resposivo
+# site-responsivo

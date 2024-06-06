@@ -1,16 +1,18 @@
 *{ /*Seletor universal para resetar as bordas da página*/
     padding:0px;
     margin:0px;
-    
-
-
-
 
 }
 
 
 
-:root{
-    --cor-de-fundo: #0000ff;
+
+:root{/*seletor raiz para variáveis*/
+    --cor-de-fundo: #f36af3; 
+    --cor-de-fundo: #00aeffc2;
+
+}
+body{/*seletor body*/
+    background-color:var(--cor-de-fundo);
 
 }

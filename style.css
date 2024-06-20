@@ -1,4 +1,6 @@
-*{ /*Seletor universal para resetar as bordas da página*/
+@import url(style/header.css);
+*{ /*Seletor universal para reset*/
+
     padding:0px;
     margin:0px;
 
@@ -7,9 +9,10 @@
 
 
 
-:root{/*seletor raiz para variáveis*/
+:root{ /*seletor raiz para variáveis*/
     --cor-de-fundo: #f36af3; 
     --cor-de-fundo: #00aeffc2;
+    --cor-branco:#ffffff;
 
 }
 body{/*seletor body*/
